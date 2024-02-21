@@ -9,6 +9,10 @@
       Title="Page1">
 
     <Grid>
-        
+        <Button Width="100" Height="50">
+            <Button Width="40" Height="50" Background="red">
+                <Button Background="yellow" Width="25" Height="10"/>
+            </Button>
+        </Button>
     </Grid>
 </Page>
